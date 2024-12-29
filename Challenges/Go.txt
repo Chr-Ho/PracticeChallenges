@@ -1,0 +1,44 @@
+FizzBuzz:
+Description: Write a program to print numbers from 1 to 100. For multiples of three, print "Fizz" instead of the number, for multiples of five print "Buzz", and for numbers which are multiples of both three and five print "FizzBuzz". This tests basic control flow and iteration in Go.
+
+Two Sum:
+Description: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. This can be an exercise in using maps for O(n) time complexity in Go.
+
+Reverse a String or Slice:
+Description: Write a function to reverse the order of characters in a string or elements in a slice. This checks understanding of slice manipulation and string handling in Go, including rune vs. byte issues.
+
+Palindrome Detection:
+Description: Determine if a given string is a palindrome, ignoring spaces, punctuation, and case. This challenge tests string manipulation and Unicode handling in Go.
+
+Fibonacci Sequence:
+Description: Implement a function to generate the nth Fibonacci number, considering efficiency for larger numbers. This can test recursion, memoization, or iterative approaches in Go.
+
+Anagram Detection:
+Description: Write a function to check if two strings are anagrams. This often involves converting strings to slices of runes, sorting, and comparing.
+
+Implement a Simple HTTP Server:
+Description: Create a basic HTTP server in Go that responds to GET requests. This tests understanding of Go's net/http package and concurrency.
+
+Linked List Problems:
+Description: Implement operations like insertion, deletion, or reversing a linked list. This is key for testing pointer manipulation in Go.
+
+Balanced Parentheses:
+Description: Write a function to check if the brackets in a string are balanced using a stack. This can be done using Go slices as a stack.
+
+Binary Tree Traversal:
+Description: Implement in-order, pre-order, and post-order traversals of a binary tree. This tests recursion and pointer handling in Go.
+
+Channel and Goroutine Challenges:
+Description: Use channels and goroutines to solve concurrent programming problems, like implementing a worker pool or a simple producer-consumer model.
+
+Sorting Algorithms:
+Description: Implement sorting algorithms like Quick Sort or Merge Sort, checking for Go's slice efficiency and understanding of goroutines for parallel sorting.
+
+Longest Common Subsequence (LCS):
+Description: Write a program to find the length of the longest common subsequence between two strings, often using dynamic programming.
+
+Implement Custom Data Structures:
+Description: For example, create your own stack or queue using Go slices or linked lists, demonstrating understanding of Go interfaces and generics.
+
+Coin Change Problem:
+Description: Given a set of coins and a total sum, find the number of ways to make change for that sum, potentially using dynamic programming.

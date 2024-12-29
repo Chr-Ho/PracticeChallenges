@@ -1,0 +1,47 @@
+FizzBuzz:
+Description: Write a program that prints the numbers from 1 to 100. For multiples of three, print "Fizz" instead of the number, for multiples of five print "Buzz", and for numbers which are multiples of both three and five print "FizzBuzz".
+
+Palindrome Check:
+Description: Determine if a given string or number is a palindrome, ignoring spaces, punctuation, and case.
+
+Reverse a String or Array:
+Description: Write a function to reverse the elements of a string or an array. This can be done in-place or by creating a new reversed sequence.
+
+Two Sum Problem:
+Description: Given an array of integers and a target sum, find two numbers in the array that add up to the target. This can be solved with O(n) time complexity using a hash table.
+
+Fibonacci Sequence:
+Description: Implement a method to return the nth Fibonacci number. This can be done iteratively or recursively, with considerations for efficiency.
+
+Anagram Detection:
+Description: Determine if two strings are anagrams of each other by comparing sorted versions of the strings or counting character occurrences.
+
+String Compression:
+Description: Compress a string by replacing consecutive repeated characters with the character followed by the count of repetitions (e.g., "aabcccccaaa" becomes "a2b1c5a3").
+
+Implement Stack or Queue:
+Description: Create a basic stack or queue implementation using C# classes. This includes operations like push/pop for stack or enqueue/dequeue for queue.
+
+Binary Search:
+Description: Implement binary search on a sorted array. This tests understanding of algorithms with O(log n) time complexity.
+
+Linked List Operations:
+Description: Implement operations like insertion at the beginning/end, deletion of a node, or finding the middle node of a singly linked list.
+
+Balanced Parentheses:
+Description: Write a function to check if parentheses in a string are correctly balanced using a stack or a counter approach.
+
+Longest Common Subsequence (LCS):
+Description: Find the length of the longest common subsequence between two strings using dynamic programming.
+
+Sorting Algorithms:
+Description: Implement algorithms like QuickSort, MergeSort, or BubbleSort in C#. This tests coding skills, algorithm efficiency, and understanding of C# collections.
+
+First Non-Repeating Character:
+Description: Find the first character in a string that does not repeat. This can be done with a dictionary or two loops.
+
+Sum of Two Integers without Using Arithmetic Operators:
+Description: Write a function that adds two integers using only bitwise operations. This tests understanding of binary arithmetic and bit manipulation.
+
+Implement a Simple Calculator:
+Description: Create a function that can evaluate simple arithmetic expressions like "3 + 5 * (2 - 8)" by parsing the string into numbers and operators.

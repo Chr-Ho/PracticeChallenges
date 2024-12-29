@@ -1,0 +1,47 @@
+String Reversal:
+Description: Write a method to reverse a string. This can be done by manipulating characters in a char array or using StringBuilder.
+
+Fibonacci Sequence:
+Description: Implement a function to calculate the nth Fibonacci number. This can be iterative or recursive, with considerations for efficiency with large numbers.
+
+Linked List Operations:
+Description: Perform basic operations on a linked list like adding nodes, removing nodes, reversing the list, or detecting if there's a cycle.
+
+Palindrome Checker:
+Description: Check if a string is a palindrome, ignoring spaces, punctuation, and case. This typically involves converting the string to a character array or using StringBuilder.
+
+Binary Tree Traversal:
+Description: Implement methods for in-order, pre-order, and post-order traversal of a binary tree. This also includes understanding tree nodes and recursion.
+
+Anagram Check:
+Description: Determine if two strings are anagrams. This can be done by sorting both strings and comparing or by counting character frequencies.
+
+Sorting Algorithms Implementation:
+Description: Code and explain algorithms like Bubble Sort, Quick Sort, or Merge Sort, discussing time complexity and space usage.
+
+Implement Stack or Queue:
+Description: Create a custom stack or queue class using an array or linked list, implementing methods like push/pop or enqueue/dequeue.
+
+Find the Longest Common Subsequence (LCS):
+Description: Use dynamic programming to find the length of the LCS between two strings.
+
+Two Sum Problem:
+Description: Given an array of integers and a target number, find two numbers in the array that sum up to the target. This often involves using HashMap for O(n) solution.
+
+Balanced Parentheses:
+Description: Check if a string of brackets is balanced using a stack data structure.
+
+Reverse a Linked List:
+Description: Reverse the order of nodes in a singly linked list, either iteratively or recursively.
+
+Find the First Non-Repeating Character in a String:
+Description: Use a hash map or an array to track character occurrences and return the first character that appears only once.
+
+Implement a Singleton Pattern:
+Description: Demonstrate understanding of design patterns by implementing a Singleton in Java, discussing thread safety.
+
+Minimum Path Sum in a Grid:
+Description: Find the path from the top left to the bottom right of a grid with the smallest sum, where only right or down movements are allowed, using dynamic programming.
+
+Java Collections Framework:
+Description: Implement or explain the use of various Java collections like ArrayList, LinkedList, HashMap, etc., for specific use cases, or create a custom implementation of one.

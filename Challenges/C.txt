@@ -1,0 +1,44 @@
+String Reversal:
+Description: Write a function that reverses a string in-place or returns a new reversed string. This tests pointer manipulation and string handling in C.
+
+Linked List Operations:
+Description: Implement basic operations like insertion, deletion, and traversal of a linked list. This can include detecting loops in the list (e.g., Floyd's Cycle-Finding Algorithm).
+
+Fibonacci Sequence:
+Description: Generate the nth Fibonacci number. This can be done iteratively or recursively, with considerations for stack overflow in recursion for large numbers.
+
+Palindrome Check for Strings or Numbers:
+Description: Check if a given string or number is a palindrome. This often involves converting to a character array or using pointers.
+
+Binary Tree Traversal:
+Description: Implement in-order, pre-order, and post-order traversal for a binary tree. This checks understanding of tree structures and recursion.
+
+Memory Allocation and Deallocation:
+Description: Write functions that dynamically allocate memory for arrays or structures and manage their deallocation properly to avoid memory leaks.
+
+Sorting Algorithms:
+Description: Implement algorithms like Bubble Sort, Quick Sort, or Merge Sort. This tests knowledge of algorithm efficiency, pointer arithmetic, and array manipulation.
+
+Anagram Detection:
+Description: Determine if two strings are anagrams by counting character occurrences or sorting the strings.
+
+Bit Manipulation:
+Description: Tasks like setting, clearing, toggling, or checking bits in an integer. This includes problems like finding the number of set bits in an integer or swapping two numbers without a temporary variable.
+
+Reverse a Linked List:
+Description: Reverse the elements of a singly linked list. This can be done iteratively or recursively, testing pointer manipulation deeply.
+
+Implement a Stack or Queue:
+Description: Create a stack or queue using an array or a linked list. This includes operations like push/pop or enqueue/dequeue.
+
+Longest Common Subsequence (LCS):
+Description: Write a program to find the length of the longest common subsequence between two strings using dynamic programming.
+
+C String Functions:
+Description: Implement standard C library string functions like strcpy, strcat, strcmp, etc., without using built-in functions to show understanding of string manipulation.
+
+Balance of Parentheses:
+Description: Write a function to check if the brackets in a string are balanced using a stack.
+
+Two Sum Problem:
+Description: Given an array of integers and a target sum, find two numbers in the array that add up to the target. This might involve sorting or using hash tables for efficiency.

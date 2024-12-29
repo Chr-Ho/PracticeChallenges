@@ -1,0 +1,44 @@
+Implement a Binary Search Tree (BST):
+Description: Write functions to insert, search, and possibly delete nodes from a BST. This challenge tests understanding of tree structures, Rust's ownership, and borrowing rules.
+
+Fibonacci Sequence:
+Description: Implement a function to calculate the nth Fibonacci number. Consider different approaches like iterative, recursive, or using dynamic programming, while managing stack space and performance.
+
+String Reversal:
+Description: Write a function to reverse a string. This can involve converting to a Vec<char> due to Rust's string immutability, demonstrating handling of ownership and lifetimes.
+
+Two Sum Problem:
+Description: Given an array of integers and a target sum, find two numbers that add up to the target. This often involves using a HashMap or sorting the vector for efficiency, showing knowledge of Rust's collections.
+
+Implement a Linked List:
+Description: Create a singly or doubly linked list, including operations like insertion, deletion, and traversal. This tests understanding of Rust's ownership system, lifetimes, and possibly unsafe code for performance.
+
+Palindrome Check:
+Description: Determine if a string or number is a palindrome, considering case sensitivity, spaces, and punctuation. This challenge highlights string manipulation in Rust.
+
+FizzBuzz:
+Description: Print numbers from 1 to 100, replacing multiples of 3 with "Fizz", multiples of 5 with "Buzz", and multiples of both with "FizzBuzz". This tests basic control flow and pattern matching in Rust.
+
+Longest Common Subsequence (LCS):
+Description: Find the length of the longest common subsequence of two strings using dynamic programming. This problem checks the implementation of algorithms and usage of Rust's vector types.
+
+Balanced Parentheses:
+Description: Check if the parentheses in a string are balanced using a stack. This is an opportunity to demonstrate working with Rust's data structures like Vec.
+
+Anagram Detection:
+Description: Write a function to check if two strings are anagrams of each other, considering character counts or sorting. This involves string manipulation and data structures like HashMap.
+
+Implement Custom Iterators:
+Description: Create custom iterators for a data structure (like a vector or tree). This tests understanding of Rust's iterator trait and how to implement Iterator and IntoIterator.
+
+Sorting Algorithms:
+Description: Implement sorting algorithms like Quick Sort or Merge Sort, focusing on in-place sorting where possible and understanding how Rust's ownership model affects these operations.
+
+Memory Safety with Unsafe Code:
+Description: Use unsafe blocks to perform operations that bypass Rust's safety checks, like raw pointer manipulation or calling C functions. This tests understanding of when and how to use unsafe code safely.
+
+Concurrency and Channels:
+Description: Implement a small program using Rust's concurrency model with std::sync::mpsc::channel to communicate between threads, showing understanding of Rust's approach to concurrent programming and ownership.
+
+Error Handling with Result and Option:
+Description: Write functions that return Result or Option types to handle potential errors or absence of a value, demonstrating Rust's error handling philosophy.

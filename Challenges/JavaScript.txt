@@ -1,0 +1,50 @@
+FizzBuzz:
+Description: Write a program that prints the numbers from 1 to 100. For multiples of three, print "Fizz" instead of the number, for multiples of five print "Buzz", and for numbers which are multiples of both three and five print "FizzBuzz".
+
+Palindrome Checker:
+Description: Determine if a given string is a palindrome, ignoring spaces, punctuation, and case sensitivity.
+
+Two Sum:
+Description: Given an array of integers and a target number, find two numbers that add up to the target. Return their indices or the numbers themselves.
+
+Reverse a String:
+Description: Write a function to reverse a string. This can be done without using built-in reverse methods to showcase understanding of loops or recursion.
+
+Fibonacci Sequence:
+Description: Implement a function to generate the nth Fibonacci number. This can be done iteratively or recursively, with considerations for performance.
+
+Anagram Detection:
+Description: Check if two strings are anagrams of each other by comparing their character counts.
+
+Implement a Stack or Queue:
+Description: Create a basic stack or queue data structure with methods like push/pop or enqueue/dequeue using arrays or objects.
+
+Balanced Parentheses:
+Description: Determine if the parentheses in a string are balanced using a stack.
+
+Longest Common Subsequence (LCS):
+Description: Write a function to find the length of the longest common subsequence in two strings using dynamic programming.
+
+Linked List Operations:
+Description: Implement basic operations like insertion, deletion, and traversal for a linked list. JavaScript doesn't have built-in linked list structures, so this would involve creating one.
+
+Debounce and Throttle:
+Description: Implement debounce or throttle functions for handling events like resize or scroll to optimize performance.
+
+Promise Handling:
+Description: Write functions that use Promises to handle asynchronous operations, including chaining, error handling, or creating custom promises.
+
+Closure and Scope:
+Description: Create examples demonstrating closure in JavaScript, like a counter that keeps its count between function calls.
+
+Implement bind, call, or apply:
+Description: Manually implement one of these function methods to show understanding of 'this' binding and function context.
+
+Event Emitter:
+Description: Build a simple event emitter system where objects can subscribe to events and emit them.
+
+Deep Clone an Object:
+Description: Write a function to create a deep clone of an object, handling nested objects and circular references.
+
+Find the Longest Word in a String:
+Description: Write a function that returns the length of the longest word in a given string, often testing string manipulation and array methods.

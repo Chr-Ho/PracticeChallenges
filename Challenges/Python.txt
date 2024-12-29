@@ -1,0 +1,35 @@
+FizzBuzz:
+Write a program that prints the numbers from 1 to 100. For multiples of three, print "Fizz" instead of the number, for multiples of five print "Buzz", and for numbers which are multiples of both three and five print "FizzBuzz".
+
+Two Sum:
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+Reverse a String or a List:
+Write a function to reverse the order of characters in a string or elements in a list. This can be done in-place or by returning a new reversed sequence.
+
+Palindrome Checker:
+Determine if a given string is a palindrome. Consider ignoring spaces, punctuation, and case sensitivity.
+
+Fibonacci Sequence:
+Implement a function to generate the nth number in the Fibonacci sequence. This can be approached iteratively or recursively, with considerations for performance with large numbers.
+
+Anagram Check:
+Write a function to check if two strings are anagrams of each other. An anagram is a word, phrase, or sentence formed from another by rearranging its letters.
+
+Longest Common Subsequence (LCS):
+Given two sequences, write an algorithm to find the length of the longest common subsequence. This often involves dynamic programming.
+
+Balanced Parentheses:
+Determine if the input string has balanced parentheses. This typically involves using a stack to keep track of opening brackets.
+
+Merge Sort or Quick Sort:
+Implement one of these sorting algorithms. This tests understanding of divide-and-conquer strategies, recursion, and sorting efficiency.
+
+Linked List Cycle Detection:
+Given a linked list, determine if it has a cycle in it. This can be solved using Floyd’s Cycle-Finding Algorithm (also known as the "tortoise and hare" algorithm).
+
+Binary Tree Traversal:
+Implement different traversal methods (in-order, pre-order, post-order) for a binary tree. This tests knowledge of tree structures and recursion.
+
+Coin Change Problem:
+Given a set of coins and a total sum, find the number of ways to make change for that sum. This is another problem often solved with dynamic programming.

@@ -1,0 +1,47 @@
+String Manipulation
+Description Implement functions to manipulate strings such as reversing, checking if it's a palindrome, or finding substrings. This can involve using C++'s stdstring class or C-style strings.
+
+Linked List Implementation
+Description Implement operations on a linked list like insertion, deletion, reversal, or detecting cycles. This tests knowledge of pointers, memory management, and dynamic memory allocation.
+
+Binary Tree Traversal
+Description Write functions to perform in-order, pre-order, and post-order traversal of a binary tree. This includes understanding tree structures and recursion.
+
+Operator Overloading
+Description Overload operators for custom classes (e.g., +, ==, ) to demonstrate understanding of how to extend C++'s syntax.
+
+Smart Pointers
+Description Use stdunique_ptr, stdshared_ptr, or stdweak_ptr to manage memory, avoiding leaks, and demonstrating RAII (Resource Acquisition Is Initialization).
+
+Template Programming
+Description Write a generic function or class using templates. This could be something like a template-based container or a generic sorting algorithm.
+
+Implementing STL Algorithms
+Description Replicate functionality of standard library algorithms like stdsort, stdfind, or stdtransform to show understanding of iterators and algorithms.
+
+Copy and Move Semantics
+Description Implement custom copy constructors, move constructors, and assignment operators for a class, highlighting the differences between them.
+
+Virtual Functions and Polymorphism
+Description Create a hierarchy of classes where a base class function is overridden in derived classes, demonstrating runtime polymorphism.
+
+Memory Management
+Description Write a program that showcases proper dynamic memory allocation and deallocation, including the use of new and delete.
+
+FizzBuzz with C++ Features
+Description Use modern C++ features like range-based for loops, lambdas, or even coroutines to solve the classic FizzBuzz problem.
+
+Exception Handling
+Description Write code that demonstrates proper exception handling, including throwing exceptions, catching them, and the use of try, catch, and throw.
+
+Graph Algorithms
+Description Implement basic graph traversal algorithms like BFS or DFS, which might involve creating a graph structure or using adjacency lists.
+
+STL Container Usage
+Description Show how to use containers like stdvector, stdmap, stdset for solving problems like finding duplicates, sorting data, or maintaining order.
+
+Multithreading
+Description Write a program using C++11's thread support to demonstrate thread creation, synchronization, and data sharing between threads.
+
+Lambda Expressions
+Description Use lambda expressions to simplify code, particularly for operations like sorting with custom comparison or event handling.
