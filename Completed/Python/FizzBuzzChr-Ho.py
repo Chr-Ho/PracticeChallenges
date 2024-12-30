@@ -1,4 +1,6 @@
 # FizzBuzz Challenge
+# Chr-Ho
+# 12/29/24
 
 # Display in the console 1-100 with each number on a seperate line.
 # Each number that is a multiple of 3, replace the number with Fizz
