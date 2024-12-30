@@ -27,7 +27,7 @@ At the top of your file, include the following information:
 Example:
 -  FizzBuzz Challange
 -  Chr-Ho
--  2024-12-29
+-  12/29/24
 -  Prints numbers from 1 to 100. For multiples of three, print "Fizz";
   for multiples of five, print "Buzz"; for multiples of both, print "FizzBuzz".
 
