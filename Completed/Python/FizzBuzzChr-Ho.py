@@ -2,10 +2,10 @@
 # Chr-Ho
 # 12/29/24
 
-# Display in the console 1-100 with each number on a seperate line.
-# Each number that is a multiple of 3, replace the number with Fizz
-# Each number that is a multiple of 5, replace the number with Buzz
-# Each number that is a multiple of 3 and 5, replace the number with FizzBuzz
+# Write a program that prints the numbers from 1 to 100.
+# For multiples of 3, replace the number with Fizz
+# For multiples of 5, replace the number with Buzz
+# For multiples of both 3 and 5, replace the number with FizzBuzz
 
 
 for i in range(101):
